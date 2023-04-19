@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f27646e3b8ba2dc4bb4a8d690530cbcf, type: 3}
+  m_Name: Game Difficulty
+  m_EditorClassIdentifier: 
+  difficulty:
+  - potatosTL: 25
+    potatosTM: 125
+    potatosTH: 1500
+    MultiplierFew: 1
+    MultiplierSome: 10
+    MultiplierLots: 100
+    GardenLimit: 200
+    FarmLimit: 150
+    FactoryLimit: 100
+  - potatosTL: 50
+    potatosTM: 150
+    potatosTH: 2500
+    MultiplierFew: 1
+    MultiplierSome: 15
+    MultiplierLots: 125
+    GardenLimit: 500
+    FarmLimit: 250
+    FactoryLimit: 220
+  - potatosTL: 150
+    potatosTM: 400
+    potatosTH: 5500
+    MultiplierFew: 5
+    MultiplierSome: 10
+    MultiplierLots: 200
+    GardenLimit: 1000
+    FarmLimit: 400
+    FactoryLimit: 350
