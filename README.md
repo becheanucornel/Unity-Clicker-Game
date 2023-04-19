@@ -11,4 +11,4 @@ The game has added scripts written by myself in C# which make the game what it i
 - It has multiple menus
 
 # Where you can play it
-- In the project files you can find the build files and you can see the evolution of the game throughout the developing journey.
+- Download here some versions of the game: https://uploadnow.io/f/qRS4SKr
