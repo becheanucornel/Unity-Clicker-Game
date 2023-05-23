@@ -10,4 +10,8 @@ The game has added scripts written by myself in C# which make the game what it i
 - There is some background music
 - It has multiple menus
 
+# How to get the game and play it
+It is fairly simple, you just have to download the "Build4.0.zip" file and in there
+you will find "Potato-Atestat.exe". Just double click on that and you are in the game
+Enjoy!
 
