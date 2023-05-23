@@ -10,5 +10,4 @@ The game has added scripts written by myself in C# which make the game what it i
 - There is some background music
 - It has multiple menus
 
-# Where you can play it
-- Download here some versions of the game: https://uploadnow.io/f/qRS4SKr
+
